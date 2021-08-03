@@ -1,0 +1,6 @@
+
+get output:
+  
+python main.py eval --content-image 1-content.jpg --style-image 1-style.jpg --model models/21styles.model --content-size 1024
+
+--style-image 在images文件夹中有一些预设风格图片
